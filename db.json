@@ -11,6 +11,18 @@
       "currentCTC": "12000",
       "expectedCTC": "15000",
       "resume": "DEEPAK RAJ -RESUME.pdf"
+    },
+    {
+      "id": "fac3",
+      "fullName": "shiva",
+      "skills": "running",
+      "yearsOfExp": "3",
+      "mobile": "9600056620",
+      "email": "draj7052000@gmail.com",
+      "noticePeriod": "0",
+      "currentCTC": "12000",
+      "expectedCTC": "15000",
+      "resume": "DEEPAK RAJ -RESUME.pdf"
     }
   ]
 }

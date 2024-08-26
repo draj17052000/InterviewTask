@@ -1,4 +1,4 @@
-"homepage": "https://draj17052000.github.io/InterviewTask"{
+{
   "name": "form-submit",
   "version": "0.1.0",
   "private": true,
@@ -17,8 +17,7 @@
     "server": "json-server --watch db.json --port 5001",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject""predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
