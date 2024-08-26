@@ -1,0 +1,16 @@
+{
+  "applications": [
+    {
+      "id": "8cc9",
+      "fullName": "shiva",
+      "skills": "welding",
+      "yearsOfExp": "3",
+      "mobile": "9600056620",
+      "email": "ramesh@gmail.com",
+      "noticePeriod": "10",
+      "currentCTC": "12000",
+      "expectedCTC": "15000",
+      "resume": "DEEPAK RAJ -RESUME.pdf"
+    }
+  ]
+}

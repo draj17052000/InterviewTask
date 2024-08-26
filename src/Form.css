@@ -1,0 +1,59 @@
+/* form.css */
+form {
+    max-width: 600px;
+    margin: auto;
+    padding: 2rem;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background: #f9f9f9;
+  }
+  
+  form input[type="text"],
+  form input[type="email"],
+  form input[type="file"],
+  form button {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  form input[type="text"],
+  form input[type="email"] {
+    font-size: 16px;
+  }
+  
+  form input[type="file"] {
+    border: none;
+    padding: 0;
+  }
+  
+  form button {
+    background-color: #007bff;
+    color: #fff;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    padding: 15px;
+  }
+  
+  form button:hover {
+    background-color: #0056b3;
+  }
+  
+  form input::placeholder {
+    color: #888;
+    font-style: italic;
+  }
+  
+  form input:focus,
+  form button:focus {
+    outline: none;
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+  }
+  
+    
